@@ -13,5 +13,6 @@ Features:
 - Delete text lines that has a specific suffix/prefix
 - Paste/copy text directly
 - save to txt file
+- offline - No ads
   
 ![image](https://github.com/OmarTools/PrefixSuffix-tool-by-OmarTools/assets/165505995/731340e4-1797-4949-8920-614bd7df4378)
