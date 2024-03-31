@@ -5,6 +5,7 @@ Light portable tool for working with prefix and suffix in text of 1 or more line
 (Does not require installation) Size:609KB
 
 Features:
+-
 - Add suffix/prefix to one of more lines
 - Remove suffix/prefix from one of more lines
 - Add Line Numbers to suffix/prefix to one of more lines
