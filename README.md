@@ -1,4 +1,4 @@
-# PrefixSuffix-tool-by-OmarTools
+# SuFreX - PrefixSuffix-tool-by-OmarTools
 ![sf logo](https://github.com/OmarTools/PrefixSuffix-tool-by-OmarTools/assets/165505995/e50be12a-b2e3-48e0-a1de-afedeb208ae9)
 
 Light portable tool for working with prefix and suffix in text of 1 or more lines
